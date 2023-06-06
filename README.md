@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,Spring Boot, MySql, Linux**
 
-- 📫 How to reach me **chandan9876kesrhi@gmail.com**
+- 📫 How to reach me **chandan9876keshri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
